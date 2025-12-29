@@ -1,6 +1,6 @@
-# 🐾 8-Ball Magicatto
+# 🐾 8-Ball Magiccato
 
-**Magicatto** is a fun and interactive web project inspired by the classic _Magic 8-Ball_ toy — but with a cute twist!  
+**Magiccato** is a fun and interactive web project inspired by the classic _Magic 8-Ball_ toy — but with a cute twist!  
 Instead of a black ball, a mage cat represents the mystical oracle that gives you random answers to your yes-or-no questions.
 
 ---
@@ -37,7 +37,7 @@ This project was inspired by the **JavaScript Magic 8-Ball exercise** from [Cod�
 The button design was based on this layout from [Uiverse.io](https://uiverse.io/Ashon-G/afraid-lion-76) by _Ashon-G_.<br>
 The cat illustration used in the interface was **drawn by me**, giving the project a personal and unique touch. 🎨
 
-Magicatto reimagines the 8-ball as a cute cat for a cozy, playful experience — perfect for fun web experiments or beginner-friendly coding practice.
+Magiccato reimagines the 8-ball as a cute cat for a cozy, playful experience — perfect for fun web experiments or beginner-friendly coding practice.
 
 ---
 
@@ -45,3 +45,4 @@ Magicatto reimagines the 8-ball as a cute cat for a cozy, playful experience —
 
 Developed by **Raínne Carvalho Lima**  
 Feel free to fork, modify, or share the magic! ✨
+
